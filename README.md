@@ -1,6 +1,6 @@
 # vt-scan.py
 
-## A python script for use in [Termux](https://f-droid.org/packages/com.termux) to scan all installed apps with [Virustotal](https://www.virustotal.com).
+## A python script for use in [Termux](https://f-droid.org/packages/com.termux) to scan all installed apps with [Virustotal](https://www.virustotal.com) on Android.
 
 **Work In Progress**
 
