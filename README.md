@@ -17,7 +17,7 @@ pkg upd && pkg i python git -y && pip install os argparse vt-py
 2. Download the script:
 
 ```
-  git clone https://github.com/Green0Field/vt-scan.py.git
+git clone https://github.com/Green0Field/vt-scan.py.git
 
 ```
 
