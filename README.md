@@ -9,7 +9,8 @@
 ## Installation
 
 1. Install dependencies: `pkg upd && pkg i python git -y && pip install os argparse vt-py`
-   _There maybe some more installation steps when more features are added._
+
+_There maybe some more installation steps when more features are added._
 
 ## Usage
 
@@ -17,8 +18,9 @@ Before using, you must get an api key from Virustotal:
 
 1. [Create](https://www.virustotal.com/gui/join-us) or [signin](https://www.virustotal.com/gui/sign-in) to an account
 2. Get an Api key [here](https://www.virustotal.com/gui/my-apikey)
-3. Create a configuration file called conf.py (which is imported by main.py) and set a variable called API*KEY to your api key, like this: `API_KEY = "your-api-key"`
-   \_The configuration file may have more options when more features are added.*
+3. Create a configuration file called conf.py (which is imported by main.py) and set a variable called API\*KEY to your api key, like this: `API_KEY = "your-api-key"`
+
+_The configuration file may have more options when more features are added._
 
 ---
 
