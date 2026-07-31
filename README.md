@@ -9,6 +9,7 @@
 ## Installation
 
 1. Install dependencies: `pkg upd && pkg i python git -y && pip install os argparse vt-py`
+2. Download the script: `git clone https://github.com/Green0Field/vt-scan.py.git`
 
 _There maybe some more installation steps when more features are added._
 
